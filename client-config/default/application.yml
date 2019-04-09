@@ -1,0 +1,9 @@
+client:
+  features: 
+  - name: billpaymentsV1
+    state: on
+  - name: imetV1
+    state: on
+  - name: transfersv1
+    state: on
+    
